@@ -1,0 +1,18 @@
+=== CROSS-TABULATION MATRIX ===
+Status Description  Applied  Dropped Out  Rejected  Rewards Award  Started  Team Allocated  Waitlisted  Withdraw  Global Total
+Country_Grouped                                                                                                               
+United States            29          324      1939             21      117            1454          59        33          3976
+India                    53          205      1107              6      302            1092          28        43          2836
+Nigeria                  13           47       258              1       99             334           6         2           760
+Ghana                     3           11        85              1       36             133           6         0           275
+Pakistan                  3           11        47              0       92              64           1         1           219
+Other Countries           4           19       133              0      121             199           9         7           492
+Global Total            105          617      3569             29      767            3276         109        86          8558
+
+=== GENDER DISTRIBUTION BREAKDOWN ===
+                       Student Headcount Percentage
+Gender                                             
+Male                                5018     58.64%
+Female                              3522     41.15%
+Don't want to specify                 15      0.18%
+Other                                  3      0.04%
