@@ -1,0 +1,55 @@
+The heatmap visualizes the relationship between two categorical variables using color intensity.
+
+==================================================
+      COMPREHENSIVE EXPLORATORY DATA REPORT       
+==================================================
+
+📅 1. MONTH-BY-MONTH APPLICATION TRENDS (PER CATEGORY)
+Opportunity Category  Competition  Course  Engagement  Event  Internship
+Apply MonthYear                                                         
+2022-10                         0      16           0      0           0
+2022-11                         0      18           0      0           0
+2022-12                         0       9           0      0           0
+2023-01                         0      30           0      0           0
+2023-02                         4      26           0      0           0
+2023-03                         0     112           0      0           0
+2023-04                         0      66           0      0           0
+2023-05                         0     145           0      0           0
+2023-06                         2     317           8     23          28
+2023-07                         6     181           9     15          79
+2023-08                        11     193          34     26         496
+2023-09                        19     113          37     24         428
+2023-10                        17      83           6     24         196
+2023-11                         0      50           6     20         106
+2023-12                         0      75           7     31         545
+2024-01                        84     173           3    105        2066
+2024-02                       229     302           5    216        1076
+2024-03                        45      65           4     39         198
+
+📊 2. TOP 10 MOST POPULAR OPPORTUNITIES/PROGRAMS
+                                                                   count
+Opportunity Name                                                        
+Career Essentials: Getting Started with Your Professional Journey   1423
+Data Visualization                                                   980
+Project Management                                                   836
+Health Care Management                                               784
+Digital Marketing                                                    559
+Data Visualization Associate                                         551
+Business Consulting                                                  483
+Project Management Associate                                         478
+Innovation & Entrepreneurship                                        419
+CPR/AED Certification                                                389
+
+🎓 3. TOP 10 STUDENT ACADEMIC MAJORS
+                                          count
+Current/Intended Major                         
+Information Systems                        2158
+Computer Science                           1052
+Health Data Science                         371
+Cyber Security                              326
+Computer Information Systems                250
+Computer Science and Information Systems    211
+Computer Science and Engineering            210
+Data Analytics                              204
+Public Health                               140
+Computer Engineering                        115
