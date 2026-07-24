@@ -1,0 +1,11 @@
+# Ignore the raw data files (keeps the large 8,500+ row CSV from slowing down git)
+*.csv
+*.xlsx
+
+# Ignore Python environment and temporary caching folders
+__pycache__/
+*.pyc
+.DS_Store
+
+# Allow processed image outputs/reports to be tracked if necessary
+# !*.png
