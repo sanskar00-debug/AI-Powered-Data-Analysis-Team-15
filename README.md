@@ -51,3 +51,13 @@ Our initial data overview surfaced the following high-level participation trends
 ```bash
 git clone [https://github.com/your-organization/AI-Data-Team-15.git](https://github.com/your-organization/AI-Data-Team-15.git)
 cd AI-Data-Team-15
+
+### 2.RIT Opportunity Wise — End-to-End Analytics Pipeline
+
+This repository hosts the production-ready automated data engineering and machine learning pipeline developed for the "RIT Opportunity Wise" interaction dataset.
+
+## Core Contents
+* `/src/data_cleaning.py`: Deterministic token standardization, null vector isolation, and datetime normalization engine.
+* `/src/eda_visualization.py`: Automated cross-tabulation routines and 300 DPI chart generation scripts (heatmaps, line trends, pie charts).
+* `/src/modeling_pipeline.py`: Supervised classifiers (Decision Tree, Random Forest, Weighted Logistic Regression) incorporating stratified target splitting and class imbalance mitigation strategies.
+* `/outputs/`: Exported technical chart graphics and performance index matrices.
