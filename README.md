@@ -8,7 +8,7 @@ An automated analytics pipeline built in Python to ingest, process, and summariz
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Power BI](https://img.shields.io/badge/Power_BI-Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Analytics](https://img.shields.io/badge/Data_Analytics-black?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Data_Analytics-pink?style=for-the-badge)
 
 ---
 
