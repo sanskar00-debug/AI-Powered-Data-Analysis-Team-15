@@ -72,8 +72,6 @@ This repository hosts the production-ready automated data engineering and machin
 
 ## 📊 Interactive Tableau Dashboard
 
-[![Dashboard Preview](dashboards/Global_Learner_Opportunity_Insights.png)]
-
 > 🔗 **[Click here to view and interact with the live dashboard on Tableau Public](https://public.tableau.com/shared/CR84SDCQ2?:display_count=n&:origin=viz_share_link)**
 
 ---
