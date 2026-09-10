@@ -1,9 +1,8 @@
-# AI Powered Data Analysis Remote Internship
+# 🎓 AI-Powered Data Analysis: Global Learner & Opportunity Insights
 
 An automated analytics pipeline built in Python to ingest, process, and summarize global student participation data. This project analyzes a dataset containing over 8,500 registration entries to identify baseline student conversion patterns across various educational categories and global geographic landscapes.
 
 ---
-
 ## 👥 Team Members
 
 * **Rishitha Yamasani**
@@ -61,3 +60,45 @@ This repository hosts the production-ready automated data engineering and machin
 * `/src/eda_visualization.py`: Automated cross-tabulation routines and 300 DPI chart generation scripts (heatmaps, line trends, pie charts).
 * `/src/modeling_pipeline.py`: Supervised classifiers (Decision Tree, Random Forest, Weighted Logistic Regression) incorporating stratified target splitting and class imbalance mitigation strategies.
 * `/outputs/`: Exported technical chart graphics and performance index matrices.
+
+```
+
+## 📊 Interactive Tableau Dashboard
+
+[![Dashboard Preview](dashboards/Global Learner & Opportunity Insights.png)]
+
+> 🔗 **[Click here to view and interact with the live dashboard on Tableau Public](https://public.tableau.com/shared/CR84SDCQ2?:display_count=n&:origin=viz_share_link)**
+
+---
+
+## 📌 Executive Summary & Key Metrics
+
+* **Total Applications Analyzed:** 8,558
+* **Active / Allocated Placements:** 4,072 (47.58% global placement rate)
+* **Program Offerings:** 22 unique opportunities across 5 tracks (Internships, Courses, Events, Competitions, Engagements)
+* **Geographic Reach:** 71 countries represented, with primary applicant hubs in the United States (3,976), India (2,836), and Nigeria (760).
+
+---
+
+## 🔍 Analytical Insights
+
+* **Funnel Efficiency by Track:** Internships generated the highest aggregate volume but maintained a competitive 21.5% allocation rate and a 65.8% rejection rate. Conversely, foundational courses recorded placement rates exceeding 90%.
+* **Academic Discipline Demand:** Applications were heavily concentrated in technical majors, led by **Information Systems** (2,158) and **Computer Science** (1,052).
+* **High-Demand Programs:** The top programs by application volume were *Career Essentials* (1,423), *Data Visualization* (980), *Project Management* (836), and *Health Care Management* (784).
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* **Business Intelligence:** Tableau Desktop / Tableau Public
+* **Database & Querying:** MySQL Workbench (Relational modeling, multi-table joins, aggregations)
+* **Data Processing:** Python (Pandas), Google Sheets
+* **Version Control:** Git & GitHub
+
+---
+
+## 📂 Repository Structure
+
+* `/data`: Source CSV datasets.
+* `/sql`: SQL query scripts organized by milestone and capstone analysis.
+* `/dashboard`: Packaged Tableau workbook (`.twbx`) and visual previews.
