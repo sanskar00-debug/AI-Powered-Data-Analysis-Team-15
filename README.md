@@ -2,6 +2,13 @@
 
 An automated analytics pipeline built in Python to ingest, process, and summarize global student participation data. This project analyzes a dataset containing over 8,500 registration entries to identify baseline student conversion patterns across various educational categories and global geographic landscapes.
 
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Analytics](https://img.shields.io/badge/Data_Analytics-pink?style=for-the-badge)
+
 ---
 ## 👥 Team Members
 
