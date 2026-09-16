@@ -13,9 +13,7 @@ An automated analytics pipeline built in Python to ingest, process, and summariz
 ---
 ## 👥 Team Members
 
-* **Rishitha Yamasani**
 * **Esha Joshi**
-* **Syed Abrar**
 * **Sanskar Muneshwar**
 * **Segun Caxton-Martins**
 * **Omoge Oluwatosin Emmanuel**
