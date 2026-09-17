@@ -7,6 +7,7 @@ An automated analytics pipeline built in Python to ingest, process, and summariz
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
+
 ![Analytics](https://img.shields.io/badge/Data_Analytics-pink?style=for-the-badge)
 ![Visualization](https://img.shields.io/badge/Visualization-%234ea94b.svg?style=for-the-badge&logo=visualization&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
